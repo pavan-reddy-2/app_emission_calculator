@@ -25,7 +25,7 @@ ICON_PATHS_AI = {
 
 st.set_page_config(layout="wide", page_title="AI Tools Carbon Footprint Calculator")
 
-st.title("🌍 Generative AI Tools Carbon Footprint Calculator")
+st.title("💻 Generative AI Tools Carbon Footprint Calculator")
 
 st.markdown(
     """
